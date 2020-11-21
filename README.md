@@ -20,6 +20,8 @@ The below image consist of my finding for the year 2014. As you can see columns 
 
 #### Results for 2016
 ![](Multi_year_stock_2016.png)
+
 ---
+
 ### Conclusion
 When looking at these screenshots I can conclude that each year "BAC" had the greates total volume, which would make it a stock worth looking into to see why that may be. Other than "BAC" we are just seeing the yearly change for each stock between the year of 2014 to 2016, I believe if we wanted to make a more detailed analysis we would need to look at more data over a longer period of time for the stock market. What could also improve this analysis would be some adjustment in the code. I was not able to figure out how to fix the results for year 2014, but I believe that the problem lies with the fact that there was no data for "PLNT" which skewed my results.
